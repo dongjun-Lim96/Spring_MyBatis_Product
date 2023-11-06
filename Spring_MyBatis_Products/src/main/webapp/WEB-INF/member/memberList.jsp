@@ -33,7 +33,7 @@
 				<input type="button" value="추가하기" onclick="insert()">
 			</td>
 		</tr>
-		
+		 
 		<tr>
 			<td>ID</td>
 			<td>이름</td>
