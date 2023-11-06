@@ -26,7 +26,7 @@
 		<input type="text" name="keyword">
 		<input type="submit" value="검색">
 	</form>
-	
+	 
 	<table border="1" align="center">
 		<tr>
 			<td align="right" colspan="9">
